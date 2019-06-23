@@ -1,0 +1,8 @@
+keras==2.2.4
+matplotlib==2.1.2
+mpl-finance==0.10.0
+numpy==1.13.3
+pandas==0.21.1
+pillow==4.3.0
+pymysql==0.8.0
+tensorflow==1.13.1
