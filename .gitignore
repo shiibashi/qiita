@@ -2,3 +2,4 @@ blog
 blog.txt
 *.ipynb_checkpoints
 *__pycache__
+*best_model.h5
