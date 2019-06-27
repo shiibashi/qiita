@@ -8,3 +8,5 @@ pip install numpy
 ```
 ## python
 3.6.7
+
+https://qiita.com/shiibass/items/c1b7649019c1df965db1
