@@ -1,3 +1,6 @@
+# Qiita
+https://qiita.com/shiibass/items/167cffabaccddc5d8f1a
+
 # BERT as service
 
 ```
