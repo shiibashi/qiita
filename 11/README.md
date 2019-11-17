@@ -21,3 +21,7 @@ README
 - scikit-learn==0.21.2
 - scipy==1.3.0
 - tensorflow==1.13.1
+
+
+## Qiita
+https://qiita.com/shiibass/items/de9361ba53f5515c3652
